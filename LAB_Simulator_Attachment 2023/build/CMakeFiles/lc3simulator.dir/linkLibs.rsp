@@ -1,0 +1,1 @@
+ "F:/Download/boost_1_70_0/stage/lib/libboost_program_options-mgw81-mt-d-x64-1_70.dll.a" -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

@@ -1,0 +1,12 @@
+5
+15
+6280
+1
+3
+9
+hello world 1 hello
+hello world 2 abcde fghij
+hello world 3 abcde world vwxyz
+3
+5
+7

@@ -1,0 +1,26 @@
+[
+{
+  "directory": "F:/ICSH/Lab/LAB_S_Attachment 2023/build",
+  "command": "F:/mingw64/bin/c++.exe  @CMakeFiles/lc3simulator.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/lc3simulator.dir/src/main.cpp.obj -c \"F:/ICSH/Lab/LAB_S_Attachment 2023/src/main.cpp\"",
+  "file": "F:/ICSH/Lab/LAB_S_Attachment 2023/src/main.cpp",
+  "output": "CMakeFiles/lc3simulator.dir/src/main.cpp.obj"
+},
+{
+  "directory": "F:/ICSH/Lab/LAB_S_Attachment 2023/build",
+  "command": "F:/mingw64/bin/c++.exe  @CMakeFiles/lc3simulator.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/lc3simulator.dir/src/memory.cpp.obj -c \"F:/ICSH/Lab/LAB_S_Attachment 2023/src/memory.cpp\"",
+  "file": "F:/ICSH/Lab/LAB_S_Attachment 2023/src/memory.cpp",
+  "output": "CMakeFiles/lc3simulator.dir/src/memory.cpp.obj"
+},
+{
+  "directory": "F:/ICSH/Lab/LAB_S_Attachment 2023/build",
+  "command": "F:/mingw64/bin/c++.exe  @CMakeFiles/lc3simulator.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/lc3simulator.dir/src/register.cpp.obj -c \"F:/ICSH/Lab/LAB_S_Attachment 2023/src/register.cpp\"",
+  "file": "F:/ICSH/Lab/LAB_S_Attachment 2023/src/register.cpp",
+  "output": "CMakeFiles/lc3simulator.dir/src/register.cpp.obj"
+},
+{
+  "directory": "F:/ICSH/Lab/LAB_S_Attachment 2023/build",
+  "command": "F:/mingw64/bin/c++.exe  @CMakeFiles/lc3simulator.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/lc3simulator.dir/src/simulator.cpp.obj -c \"F:/ICSH/Lab/LAB_S_Attachment 2023/src/simulator.cpp\"",
+  "file": "F:/ICSH/Lab/LAB_S_Attachment 2023/src/simulator.cpp",
+  "output": "CMakeFiles/lc3simulator.dir/src/simulator.cpp.obj"
+}
+]

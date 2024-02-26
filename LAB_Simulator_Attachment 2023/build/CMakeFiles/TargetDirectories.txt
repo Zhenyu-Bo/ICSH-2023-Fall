@@ -1,0 +1,3 @@
+F:/ICSH/Lab/LAB_S_Attachment 2023/build/CMakeFiles/lc3simulator.dir
+F:/ICSH/Lab/LAB_S_Attachment 2023/build/CMakeFiles/edit_cache.dir
+F:/ICSH/Lab/LAB_S_Attachment 2023/build/CMakeFiles/rebuild_cache.dir

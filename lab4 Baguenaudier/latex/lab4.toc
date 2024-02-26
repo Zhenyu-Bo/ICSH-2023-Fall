@@ -1,0 +1,7 @@
+\contentsline {section}{\numberline {1}实验目的}{1}{}%
+\contentsline {section}{\numberline {2}实验原理}{1}{}%
+\contentsline {section}{\numberline {3}实验过程}{3}{}%
+\contentsline {subsection}{\numberline {3.1}C语言实现}{3}{}%
+\contentsline {subsection}{\numberline {3.2}流程图}{6}{}%
+\contentsline {subsection}{\numberline {3.3}汇编语言实现}{7}{}%
+\contentsline {section}{\numberline {4}实验结果}{12}{}%
